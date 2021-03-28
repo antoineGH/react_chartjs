@@ -12,6 +12,14 @@ This project is a simple implementation of ChartJS.
 
 https://www.chartjs.org/
 
+### Key points
+
+-   Chart JS
+-   Import as React Component
+-   State Management (data, labels)
+-   State update
+-   Generate a new graph live
+
 ## 2. Installation instructions<a name="installation"></a>
 
 Versions:

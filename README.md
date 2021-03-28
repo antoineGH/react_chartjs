@@ -10,22 +10,9 @@
 
 ## 1. Project description<a name="description"></a>
 
-Advisor enables travellers to browse interest points for a particular destination. They can use this application to organise their trip by checking the place rating, popularity, previewing a picture and find the location.
+This project is a simple implementation of ChartJS.
 
-### [> View Technical Specifications Advisor](screenshots/Specifications_Project_Advisor.pdf)
-
-### Project Scope
-
-Advisor is a programming project, that allows its developers to practice client-side programming using API calls.
-
-### References
-
--   React - https://reactjs.org/
--   React Router - https://reactrouter.com/web/guides/quick-start
--   React Bootstrap - https://react-bootstrap.github.io/
--   React Spinners - http://www.davidhu.io/react-spinners/
--   React Promise Tracker - https://lemoncode.github.io/react-promise-tracker/React
--   Places Autocomplete - https://www.npmjs.com/package/react-places-autocomplete
+https://www.chartjs.org/
 
 ## 2. Features<a name="features"></a>
 
@@ -54,13 +41,13 @@ Versions:
 Download code from Github:
 
 ```shell
-git clone https://github.com/antoineratat/react_advisor.git
+git clone https://github.com/antoineratat/react_chartjs.git
 ```
 
 Navigate to project directory.
 
 ```shell
-cd react_advisor
+cd react_chartjs
 ```
 
 Install node modules.
@@ -69,36 +56,14 @@ Install node modules.
 npm install
 ```
 
-Create .env
-
-```shell
-REACT_APP_AUTOCOMPLETE_API_KEY=yourKey
-REACT_APP_MAP_API_KEY=yourKey
-REACT_APP_FOURSQUARE_API_CLIENT_ID=yourKey
-REACT_APP_FOURSQUARE_API_CLIENT_SECRET=yourKey
-REACT_APP_OPENWEATHER_API_KEY=yourKey
-```
-
 Run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 ```shell
 npm start
 ```
 
-## 4. Project structure<a name="structure"></a>
-
-![Components Screenshot](https://github.com/antoineratat/react_advisor/blob/master/screenshots/Components_Advisor.png?raw=true)
-
 ## 5. Screenshots<a name="screenshots"></a>
 
 Main Result Page
 
 ![Components Screenshot](https://github.com/antoineratat/react_advisor/blob/master/screenshots/main_search.PNG?raw=true)
-
-Quick Search Component
-
-![Components Screenshot](https://github.com/antoineratat/react_advisor/blob/master/screenshots/quick_search_component.PNG?raw=true)
-
-Weather Component
-
-![Components Screenshot](https://github.com/antoineratat/react_advisor/blob/master/screenshots/weather_component.png?raw=true)

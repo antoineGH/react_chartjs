@@ -56,4 +56,4 @@ npm start
 
 Implementatio Result
 
-![ChartJS Screenshot](https://templars.guru/app/github/react_chartjs/1.PNG)
+![ChartJS Screenshot](https://github.com/antoineratat/github_docs/blob/main/react_chartjs/1.PNG?raw=true)
